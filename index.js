@@ -25,25 +25,3 @@ function currentLine(curLine){
   return speak;
  }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
